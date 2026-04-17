@@ -12,7 +12,7 @@ killmlana
 <br clear="right">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,cs,java,cpp,rust,solidity,aws,docker,linux&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=python,ts,cs,java,cpp,solidity,aws,docker,linux&theme=dark&perline=10">
 </div>
 
 <br>
