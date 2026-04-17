@@ -2,7 +2,7 @@
 killmlana
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=killmlana&count_private=true&show_icons=true&line_height=25&theme=tokyonight&hide_border=true" alt="Stats">
+<img align="right" src="https://lanyard.cnrad.dev/api/702516432327540827?theme=dark&borderRadius=10px&animated=true&idleMessage=probably%20asleep" alt="Discord Status">
 
 - From Guwahati, India.
 - I code as a coping mechanism. I use arch btw.
@@ -13,6 +13,12 @@ killmlana
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,cs,java,cpp,rust,solidity,aws,docker,linux&theme=dark&perline=10">
+</div>
+
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=killmlana&count_private=true&show_icons=true&line_height=25&theme=tokyonight&hide_border=true" alt="Stats">
 </div>
 
 <br>
