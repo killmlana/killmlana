@@ -1,31 +1,28 @@
-<!--
-killmlana
--->
+<h1 align="center">killmlana</h1>
 
-<img align="right" src="https://lanyard.cnrad.dev/api/702516432327540827?theme=dark&borderRadius=10px&animated=true&idleMessage=probably%20asleep" alt="Discord Status">
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch-Linux-1793D1?logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-web-services&logoColor=white" />
+</p>
 
-- From Guwahati, India.
-- I code as a coping mechanism. I use arch btw.
-- Building things across the stack — backends, infra, ML pipelines, whatever sounds interesting.
-- Currently messing with graph RAG and document understanding.
+<p align="center">I code as a coping mechanism. I use arch btw.</p>
 
-<br clear="right">
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,cs,java,cpp,solidity,aws,docker,linux&theme=dark&perline=10">
-</div>
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/702516432327540827?theme=dark&borderRadius=10px&animated=true&idleMessage=probably%20asleep" alt="Discord Status">
+</p>
 
-<br>
+---
 
-<div align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=killmlana&count_private=true&show_icons=true&line_height=25&theme=tokyonight&hide_border=true" alt="Stats">
-</div>
+</p>
 
-<br>
-
-<div align="left">
+<p align="center">
   <a href="https://github.com/killmlana/Rapid2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killmlana&repo=Rapid2&theme=tokyonight&hide_border=true" alt="Rapid2"></a>
-  <a href="https://github.com/killmlana/Clippy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killmlana&repo=Clippy&theme=tokyonight&hide_border=true" alt="Clippy"></a>
-</div>
-
-<h4>Most repos are private tbh</h4>
+  <a href="https://github.com/killmlana/.dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killmlana&repo=.dotfiles&theme=tokyonight&hide_border=true" alt=".dotfiles"></a>
+</p>
